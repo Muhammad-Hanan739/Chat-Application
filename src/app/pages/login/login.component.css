@@ -7,7 +7,8 @@
   height:100vh;
 }
 
-.btn {
+.btn:hover {
+  background-color: cyan;
   border-radius: 2px;
   text-transform: capitalize;
   font-size: 15px;
